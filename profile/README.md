@@ -7,5 +7,6 @@ CEMAC - the Centre for Environmental Modelling and Computation - are based at th
 :snake: Managing Python environments and packages  <br />
 :blue_book: Machine Learning notebooks  <br />
 :earth_africa: Running WRF and WRF-Chem  <br />
+:globe_with_meridians: Extensive use of MetOffice Unified Model and Momentum&reg;
 
-This landing page is currently development, so stay tuned!
+This landing page is currently undergoing development, so stay tuned!
